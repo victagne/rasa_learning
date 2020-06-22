@@ -1,2 +1,2 @@
 # rasa_learning
-Learning Rasa framework
+Learning Rasa chatbot framework
