@@ -29,3 +29,15 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+  
+## ask diet questions
+* ask_eat_healthy
+  - utter_diet_info
+  
+## ask stress questions
+* ask_lower_stress
+  - utter_stress_info
+  
+## ask exercise
+* ask_exercise
+  - utter_exercise_info
